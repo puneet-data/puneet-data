@@ -25,6 +25,7 @@ Turning Data into Business Insights | AWS & Big Data Enthusiast
 
 ##  Featured Projects
 1. [Customer Segmentation](https://github.com/puneet-data/customer-segmentation-project) – EDA + ML + Business Insights
-2. [Loan Approval Prediction](https://github.com/puneet-data/Loan_approval_project) – Deployed Model with Dashboard  
+2. [Loan Approval Prediction](https://github.com/puneet-data/Loan_approval_project) – Deployed Model with Dashboard
+3. [E-commerce Dashboard](https://github.com/puneet-data/E-commerce-dashboard) - DAX Functions
 
 Connect with me: [LinkedIn](www.linkedin.com/in/puneet471) | [Email](sainipuneet471@gmail.com)
