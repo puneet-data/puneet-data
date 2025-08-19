@@ -18,14 +18,18 @@ Here are some ideas to get you started:
 Data Analyst | SQL • Python • Power BI • Machine Learning  
 Turning Data into Business Insights | AWS & Big Data Enthusiast
 
-## 🛠 Skills
-- **Languages**: Python, SQL  
-- **Tools**: Power BI, Tableau, Excel  
-- **ML & AI**: Scikit-learn, NLP, Forecasting  
+I design end-to-end data solutions: from cleaning raw datasets to building ML models and delivering interactive dashboards.
+
+## Skills
+- **Python**: Pandas, NumPy, Matplotlib, Scikit-learn
+- **SQL**: Joins, CTEs, Window Functions, Query Optimization
+- **Power BI**: DAX, Interactive Dashboards, Storytelling
+- **ML & AI**: Classification, Clustering, NLP, Forecasting
+- **Excel**: Power Query, Pivot Tables, Advanced Formulas, XLOOKUP, VLOOKUP
 
 ##  Featured Projects
-1. [Customer Segmentation](https://github.com/puneet-data/customer-segmentation-project) – EDA + ML + Business Insights
-2. [Loan Approval Prediction](https://github.com/puneet-data/Loan_approval_project) – Deployed Model with Dashboard
-3. [E-commerce Dashboard](https://github.com/puneet-data/E-commerce-dashboard) - DAX Functions
+1. [Customer Segmentation](https://github.com/puneet-data/customer-segmentation-project) – EDA + ML + Business Insights -> Identified top 20% high-value customers for targeted marketing
+2. [Loan Approval Prediction](https://github.com/puneet-data/Loan_approval_project) – Built & deployed ML model (85% accuracy) with Streamlit + Power BI dashboard
+3. [E-commerce Dashboard](https://github.com/puneet-data/E-commerce-dashboard) - Created a 4-page Power BI dashboard with DAX (Sales, Customers, Products, and Shipping KPIs)
 
 Connect with me: [LinkedIn](www.linkedin.com/in/puneet471) | [Email](sainipuneet471@gmail.com)
