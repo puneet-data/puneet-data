@@ -30,6 +30,6 @@ I design end-to-end data solutions: from cleaning raw datasets to building ML mo
 ##  Featured Projects
 1. [Customer Segmentation](https://github.com/puneet-data/customer-segmentation-project) – EDA + ML + Business Insights -> Identified top 20% high-value customers for targeted marketing
 2. [Loan Approval Prediction](https://github.com/puneet-data/Loan_approval_project) – Built & deployed ML model (85% accuracy) with Streamlit + Power BI dashboard
-3. [E-commerce Dashboard](https://github.com/puneet-data/E-commerce-dashboard) - Created a 4-page Power BI dashboard with DAX (Sales, Customers, Products, and Shipping KPIs)
+3. [E-commerce Dashboard](https://github.com/puneet-data/ecommerce-dashboard) - Created a 4-page Power BI dashboard with DAX (Sales, Customers, Products, and Shipping KPIs)
 
 Connect with me: [LinkedIn](www.linkedin.com/in/puneet471) | [Email](sainipuneet471@gmail.com)
