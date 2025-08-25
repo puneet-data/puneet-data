@@ -51,7 +51,7 @@ Developed an **ML pipeline** (TF-IDF + Logistic Regression) with **95% accuracy*
 ---
 
 ##  Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/puneet471/)  [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](sainipuneet471@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/puneet-data/puneet-data)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/puneet471/)  [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sainipuneet471@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/puneet-data/puneet-data)  
 
 ---
 
