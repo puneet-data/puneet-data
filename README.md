@@ -1,36 +1,68 @@
-# Hi, I'm Puneet Saini 👋
+# Hi, I'm Puneet Saini 👋  
 
-<!--
-**puneet-data/puneet-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Analyst | SQL • Python • Power BI • Machine Learning**  
+🎯 Turning Data into Business Insights | AWS & Big Data Enthusiast  
 
-Here are some ideas to get you started:
+I design **end-to-end data solutions**: from cleaning raw datasets to building ML models and delivering interactive dashboards.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-Data Analyst | SQL • Python • Power BI • Machine Learning  
-Turning Data into Business Insights | AWS & Big Data Enthusiast
+## 🛠 Tech Stack  
 
-I design end-to-end data solutions: from cleaning raw datasets to building ML models and delivering interactive dashboards.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
-## Skills
-- **Python**: Pandas, NumPy, Matplotlib, Scikit-learn
-- **SQL**: Joins, CTEs, Window Functions, Query Optimization
-- **Power BI**: DAX, Interactive Dashboards, Storytelling
-- **ML & AI**: Classification, Clustering, NLP, Forecasting
-- **Excel**: Power Query, Pivot Tables, Advanced Formulas, XLOOKUP, VLOOKUP
+---
 
-##  Featured Projects
-1. [Customer Segmentation](https://github.com/puneet-data/customer-segmentation-project) – EDA + ML + Business Insights -> Identified top 20% high-value customers for targeted marketing
-2. [Loan Approval Prediction](https://github.com/puneet-data/Loan_approval_project) – Built & deployed ML model (85% accuracy) with Streamlit + Power BI dashboard
-3. [E-commerce Dashboard](https://github.com/puneet-data/ecommerce-dashboard) - Created a 4-page Power BI dashboard with DAX (Sales, Customers, Products, and Shipping KPIs)
-4. [Fake News Detection System](https://github.com/puneet-data/fake-news-detection-system) – Built an ML pipeline (TF-IDF + Logistic Regression) with **95% accuracy**, deployed via **Flask web app** for real-time classification  
+## 📌 Featured Projects  
 
-Connect with me: [LinkedIn](www.linkedin.com/in/puneet471) | [Email](sainipuneet471@gmail.com)
+### 🔹 [Customer Segmentation](https://github.com/puneet-data/customer-segmentation-project)  
+Identified **top 20% high-value customers** for targeted marketing using **EDA, Clustering, and RFM Analysis**.  
+📊 Power BI Dashboard included.  
+![Customer Segmentation](images/customer-segmentation.png)  
+
+---
+
+### 🔹 [Loan Approval Prediction](https://github.com/puneet-data/Loan_approval_project)  
+Built & deployed an **ML model (85% accuracy)** with **Streamlit** + **Power BI dashboard**.  
+- Applied Logistic Regression & Random Forest.  
+- Integrated SHAP for model explainability.  
+![Loan Approval](images/loan-approval.png)  
+
+---
+
+### 🔹 [E-commerce Dashboard](https://github.com/puneet-data/ecommerce-dashboard)  
+Created a **4-page Power BI dashboard** with **Sales, Customers, Products, and Shipping KPIs**.  
+- Used advanced **DAX measures**.  
+- Delivered **interactive storytelling dashboards**.  
+![E-commerce Dashboard](images/ecommerce-dashboard.png)  
+
+---
+
+### 🔹 [Fake News Detection System](https://github.com/puneet-data/fake-news-detection-system)  
+Developed an **ML pipeline** (TF-IDF + Logistic Regression) with **95% accuracy**.  
+- Deployed via **Flask web app** for real-time classification.  
+- Used NLP preprocessing & feature engineering.  
+![Fake News App](images/fake-news.png)  
+
+---
+
+## 📈 Current Focus  
+- 🌱 Enhancing skills in **NLP & Time-Series Forecasting**.  
+- 🚀 Building **Sales Forecasting & Optimization** project.  
+
+---
+
+## 🤝 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
+
+---
+
+✨ *“Data is the new oil — I help businesses refine it into insights.”* ✨
